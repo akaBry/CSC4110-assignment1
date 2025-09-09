@@ -1,3 +1,3 @@
-#CSC4110-assignment1
-##Bryan Akani
-###gn7612
+# CSC4110-assignment1
+## Bryan Akani
+### gn7612
